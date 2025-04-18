@@ -14,11 +14,6 @@ Clone the repo:
 git clone https://github.com/LukBur/Fattening-text.git
 ```
 
-Run the code:
-
-```bash
-python font.py
-```
 
 Unmodified file:
 
