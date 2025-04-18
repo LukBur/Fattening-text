@@ -22,8 +22,6 @@ Unmodified file:
 
 ![alt text](image.png)
 
-Run the file:
-
 ```bash 
 python font.py
 ```
