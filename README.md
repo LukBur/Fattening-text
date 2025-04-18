@@ -8,9 +8,21 @@ You will be needing Docx library for manipulating the .docx files:
 pip install python-docx
 ```
 
+Clone the repo:
+
+```bash
+git clone https://github.com/LukBur/Fattening-text.git
+```
+
+Run the code:
+
+```bash
+python font.py
+```
+
 Unmodified file:
 
-![alt text](original.png)
+![alt text](image.png)
 
 Run the file:
 
@@ -20,4 +32,4 @@ python font.py
 
 Modified file:
 
-![alt text](modded.png)
+![alt text](image-1.png)
