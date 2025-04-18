@@ -9,6 +9,7 @@ pip install python-docx
 ```
 
 Unmodified file:
+
 ![alt text](original.png)
 
 Run the file:
@@ -18,4 +19,5 @@ python font.py
 ```
 
 Modified file:
+
 ![alt text](modded.png)
