@@ -1,7 +1,6 @@
 from docx import Document
 from docx.shared import Pt, RGBColor
 import os
-#import psutil
 
 doc = Document("reduta.docx")
 
@@ -24,8 +23,10 @@ for para in doc.paragraphs:
 
 new_doc.save("reduta_enhanced.docx")
 
-# opening + closing
+# showing the result
 os.startfile("reduta_enhanced.docx")
-k = input()
+msg = input()
+
+#closing
 os.system("taskkill /f /im WINWORD.EXE")
-print(k)
+print(msg) # kill message, because why not
