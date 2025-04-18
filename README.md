@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/2be1be83-3184-4352-af75-144a8331f03c)# Fattening-text
-
 The purpose of this project is to enhance reading experience. Reaserch shows that words with mixed-style letters tend to increase focus and speed of reading.
 
 You will be needing Docx library for manipulating the .docx files:
